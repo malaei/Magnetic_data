@@ -1,16 +1,14 @@
-# Magnetic Data Repository
-
-This repository provides experimental and simulation data for magnetic compounds.
+# BiFeO3
 
 ## Figure
 
-The figure below shows the structure of BiFeO3:
+The structure of BiFeO3 is shown below:
 
 ![BiFeO3 Structure](BiFeO3.jpg)
 
 ## Table
 
-The table below compares experimental temperatures with Monte Carlo (MC) simulations for a sample compound:
+Experimental and simulation data for BiFeO3:
 
 | T_exp (K) | T_MC (K) | T_MC* (K) | S   | Error (%) |
 |-----------|----------|-----------|-----|-----------|
@@ -18,7 +16,7 @@ The table below compares experimental temperatures with Monte Carlo (MC) simulat
 
 ## Reference
 
-For more details, refer to the following paper:
+For more details, see:
 
-- [Data Reference](https://doi.org/10.1103/PhysRevLett.108.077202)
+[Phys. Rev. Lett. 108, 077202](https://doi.org/10.1103/PhysRevLett.108.077202)
 
