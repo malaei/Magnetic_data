@@ -6,13 +6,14 @@ This directory provides data on the Heisenberg exchange interactions, structure,
 For INS data, see the following publication:
 [Phys. Rev. Lett. 108, 077202](https://doi.org/10.1103/PhysRevLett.108.077202)
 
-## Figure
+
+## Crystal and Heisenberg exchanges
 
 The structure and Heisenberg exchange interactions of BiFeO3 are depicted below:
 
 ![BiFeO3 Structure](BiFeO3.jpg)
 
-## Data Table
+## Temperature data 
 
 The table below summarizes experimental and Monte Carlo (MC) transition temperature data for BiFeO3:
 
