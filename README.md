@@ -1,2 +1,11 @@
 # Magnetic_data
-Here's a refined version within the  Experimental magnetic data: **INS_SW_MC**: Exchange interactions for 80+ compounds fitted to spin-wave theory, with Monte Carlo data via [ESpinS](https://github.com/nafiserb/ESpinS). **FM**: Upcoming Curie temperatures for ~3,000 ferromagnets. **AFM**: Upcoming Néel temperatures for ~3,000 antiferromagnets. 
+
+
+This repository provides experimental magnetic data, organized as follows:
+
+- **INS_SW_MC**: Contains details of exchange interactions derived from fitting inelastic neutron scattering (INS) data to spin-wave (SW) theory for over 80 magnetic compounds. Additionally, Monte Carlo simulation data for each compound, generated using [ESpinS](https://github.com/nafiserb/ESpinS), is included.
+
+- **FM** (coming soon): Will include Curie temperature data for approximately 3,000 ferromagnetic compounds.
+
+- **AFM** (coming soon): Will include Néel temperature data for approximately 3,000 antiferromagnetic compounds.
+
