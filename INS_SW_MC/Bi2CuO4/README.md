@@ -13,7 +13,7 @@
 | 5        | 7.127739     | -0.125           |
 
 
-## Monte Carlo, corrected Monte Carlo(T<sub>MC</sub><sup>*</sup>) and Exp. transition temperature
+## Monte Carlo, corrected Monte Carlo (T<sub>MC</sub><sup>*</sup>) and Exp. transition temperature
 
 | T<sub>exp</sub> (K) | T<sub>MC</sub> (K) | T<sub>MC</sub><sup>*</sup> (K) | S   | Error (%) |
 |----------------------|--------------------|--------------------------------|-----|-----------|
