@@ -1,7 +1,5 @@
 # BiFeO3
 
-INS data:
-[Phys. Rev. Lett. 108, 077202](https://doi.org/10.1103/PhysRevLett.108.077202)
 
 
 ## Crystal and Heisenberg exchanges
@@ -21,3 +19,5 @@ INS data:
 
 
 
+## INS data:
+[Phys. Rev. Lett. 108, 077202](https://doi.org/10.1103/PhysRevLett.108.077202)
