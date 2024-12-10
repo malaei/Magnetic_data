@@ -1,4 +1,4 @@
-# BiFeO3
+# BiFeO<sub>3
 
 
 
