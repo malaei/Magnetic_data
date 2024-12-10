@@ -6,17 +6,14 @@ INS data:
 
 ## Crystal and Heisenberg exchanges
 
-The structure and Heisenberg exchange interactions of BiFeO3:
-
 ![BiFeO3 Structure](BiFeO3.jpg)
 
 | shell    | distance (A)| exchange J (eV) |
 |----------|----------|-----------------|
 |    1     | 4.000980 |   -0.02737500   |                
-|----------|----------|-----------------|
 |    2     | 5.629999 |   -0.0009375    |
 
-## Temperature temperature
+## Transition temperature
 
 | T<sub>exp</sub> (K) | T<sub>MC</sub> (K) | T<sub>MC</sub><sup>*</sup> (K) | S   | Error (%) |
 |----------------------|--------------------|--------------------------------|-----|-----------|
