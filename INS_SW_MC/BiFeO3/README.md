@@ -1,4 +1,4 @@
-# BiFeO<sub>3
+# BiFeO<sub>3</sub>
 
 
 
