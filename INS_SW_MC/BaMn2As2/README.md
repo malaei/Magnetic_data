@@ -5,7 +5,7 @@
 ![BaMn2As2 Structure](BaMn2As2.jpg)
 
 
-| shell    | distance (\u212B) | exchange J (meV) |
+| shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|
 | 1        | 3.082038     | 101.250          |
 | 2        | 4.358659     | 34.000           |
