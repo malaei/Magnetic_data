@@ -7,12 +7,12 @@
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|
-| 1        | 3.082038     | 101.250          |
-| 2        | 4.358659     | 34.000           |
-| 4        | 6.743528     | 4.500            |
+| 1        | 3.082038     | -101.250         |
+| 2        | 4.358659     | -34.000          |
+| 4        | 6.743528     | -4.500           |
 
 
-## Transition temperature
+## Monte Carlo, corrected Monte Carlo(T<sub>MC</sub><sup>*</sup>) and Exp. transition temperature
 
 | T<sub>exp</sub> (K) | T<sub>MC</sub> (K) | T<sub>MC</sub><sup>*</sup> (K) | S   | Error (%) |
 |----------------------|--------------------|--------------------------------|-----|-----------|
@@ -20,8 +20,8 @@
 
 
 ## INS data:
-[PhysRevB.95.224401](https://doi.org/10.1103/PhysRevB.95.224401)
+[Phys. Rev. B 95, 224401](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.224401)
 
 
-## Transition temperature:
-[PhysRevB.95.224401](https://doi.org/10.1103/PhysRevB.95.224401)
+## Exp. transition temperature:
+[Phys. Rev. B 95, 224401](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.224401)
