@@ -1,0 +1,48 @@
+----------------------------------------------------------------
+Begin PBS Prologue Tue Jul 30 23:59:45 MSK 2024 1722373185
+Job ID:           15555476.mgmt-arkuda.skoltech.ru
+Username: n.badafshani
+Group:            n.badafshani
+Node(s):        htc-a1c02s02:ppn=20	
+End PBS Prologue Tue Jul 30 23:59:45 MSK 2024 1722373185
+----------------------------------------------------------------
+ 
+:: initializing oneAPI environment ...
+   15555476.mgmt-arkuda.skoltech.ru.SC: BASH_VERSION = 4.2.46(1)-release
+   args: Using "$@" for setvars.sh arguments: 
+:: advisor -- latest
+:: ccl -- latest
+:: clck -- latest
+:: compiler -- latest
+:: dal -- latest
+:: debugger -- latest
+:: dev-utilities -- latest
+:: dnnl -- latest
+:: dpcpp-ct -- latest
+:: dpl -- latest
+:: inspector -- latest
+:: ipp -- latest
+:: ippcp -- latest
+:: itac -- latest
+:: mkl -- latest
+:: mpi -- latest
+:: tbb -- latest
+:: vtune -- latest
+:: oneAPI environment initialized ::
+ 
+ Error: Problem reading block keyword singleion_axes_frac
+ Error on node 0: examine the output/error files for details
+Abort(1) on node 0 (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+----------------------------------------------------------------
+Begin PBS Epilogue Tue Jul 30 23:59:58 MSK 2024 1722373198
+Job ID:           15555476.mgmt-arkuda.skoltech.ru
+Exit Code:      1
+Username: n.badafshani
+Group:            n.badafshani
+Job Name: mnte
+Session:  25233
+Limits:           nodes=1:ppn=20,walltime=24:00:00,neednodes=1:ppn=20,pmem=5000mb
+Resources:        cput=00:01:45,vmem=0kb,walltime=00:00:08,mem=1576192kb,energy_used=0
+Queue:            batch
+End PBS Epilogue Tue Jul 30 23:59:58 MSK 2024 1722373198
+----------------------------------------------------------------

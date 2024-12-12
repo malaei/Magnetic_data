@@ -1,0 +1,21 @@
+ Begin  Unit_Cell_Cart
+    4.0710000070    0.0000000000    0.0000000000
+    0.0000000000    4.0710000070    0.0000000000
+    0.0000000000    0.0000000000    4.0710000070
+ End Unit_Cell_Cart 
+
+ Begin  Atoms_Cart
+ Co      2.0355000030     2.0355000030     2.0355000030   1.0
+ End  Atoms_Cart
+ 
+    Shells_jij      = 3
+ !! Spin_glass      = .True. 
+ !! Ham_bij         = .True. 
+ !! Shells_bij      = 1 
+ !! Ham_dij         = .Ture. 
+ !! Shells_dij      = 1 
+
+ !! Length_unit     = Bohr
+ !! Parameter_unit  = Ryd 
+ !! Coordinate      = Cart 
+ 

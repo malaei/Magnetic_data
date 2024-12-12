@@ -1,0 +1,45 @@
+----------------------------------------------------------------
+Begin PBS Prologue Thu Sep  5 05:58:38 MSK 2024 1725505118
+Job ID:           15572235.mgmt-arkuda.skoltech.ru
+Username: n.badafshani
+Group:            n.badafshani
+Node(s):        htc-a1c01s01:ppn=20	
+End PBS Prologue Thu Sep  5 05:58:38 MSK 2024 1725505118
+----------------------------------------------------------------
+ 
+:: initializing oneAPI environment ...
+   15572235.mgmt-arkuda.skoltech.ru.SC: BASH_VERSION = 4.2.46(1)-release
+   args: Using "$@" for setvars.sh arguments: 
+:: advisor -- latest
+:: ccl -- latest
+:: clck -- latest
+:: compiler -- latest
+:: dal -- latest
+:: debugger -- latest
+:: dev-utilities -- latest
+:: dnnl -- latest
+:: dpcpp-ct -- latest
+:: dpl -- latest
+:: inspector -- latest
+:: ipp -- latest
+:: ippcp -- latest
+:: itac -- latest
+:: mkl -- latest
+:: mpi -- latest
+:: tbb -- latest
+:: vtune -- latest
+:: oneAPI environment initialized ::
+ 
+----------------------------------------------------------------
+Begin PBS Epilogue Thu Sep  5 11:10:48 MSK 2024 1725523848
+Job ID:           15572235.mgmt-arkuda.skoltech.ru
+Exit Code:      0
+Username: n.badafshani
+Group:            n.badafshani
+Job Name: tmfeo3
+Session:  12321
+Limits:           nodes=1:ppn=20,walltime=24:00:00,neednodes=1:ppn=20,pmem=5000mb
+Resources:        cput=103:46:43,vmem=131321940kb,walltime=05:12:05,mem=1604436kb,energy_used=0
+Queue:            batch
+End PBS Epilogue Thu Sep  5 11:10:48 MSK 2024 1725523848
+----------------------------------------------------------------

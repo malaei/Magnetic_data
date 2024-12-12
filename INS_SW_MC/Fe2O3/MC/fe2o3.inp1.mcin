@@ -1,0 +1,25 @@
+ Begin  Unit_Cell_Cart
+    2.9069575900    0.0000000000    4.5878876360
+   -1.4534785430    2.5174989870    4.5878876360
+   -1.4534785430   -2.5174989870    4.5878876360
+ End Unit_Cell_Cart 
+
+ Begin  Atoms_Cart
+ Fe      0.0000001780     0.0000000000     4.8544439080     1
+ Fe      0.0000000740     0.0000000000     2.0273875460     1
+ Fe      0.0000004290     0.0000000000    11.7362753620     1
+ Fe      0.0000003260     0.0000000000     8.9092190000     1
+
+ End  Atoms_Cart
+ 
+ Shells_jij         = 5
+ !! Spin_glass      = .True. 
+ !! Ham_bij         = .True. 
+ !! Shells_bij      = 1 
+ !! Ham_dij         = .Ture. 
+ !! Shells_dij      = 1 
+
+ !! Length_unit     = Bohr
+ !! Parameter_unit  = Ryd 
+ !! Coordinate      = Cart 
+ 

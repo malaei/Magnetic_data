@@ -1,0 +1,36 @@
+  Begin Unit_Cell_Cart
+      4.68370008   0.00000000   0.00000000
+      0.00000000   3.42260003   0.00000000
+     -0.85002749   0.00000000   5.05786930
+  End Unit_Cell_Cart
+  
+  Begin Atoms_Frac
+   Cu       0.2500000   0.2500000   0.0000000    1.00
+   Cu       0.7500000   0.7500000   0.0000000    1.00
+   Cu       0.7500000   0.2500000   0.5000000    1.00
+   Cu       0.2500000   0.7500000   0.5000000    1.00
+  End Atoms_Frac
+  
+  !! Order_parameter        = .True.
+  !! Sfactor                = .True.
+  !! Staggered_m            = .True.
+  !! Binning_error          = .True.
+  !! Spin_correlation       = .True.
+  !! Energy_write           = .True.
+
+  ## Hamiltonian
+  !! Boundary               =  Open 
+  !! Ham_j_matrix           = .True.
+  !! Ham_singleion          = .True.
+  !! Ham_singleion_matrix   = .True.
+  !! Ham_field              = .True.
+  !! Spin_glass             = .True.  !Add the sigma parameters as sig=.. in Parameters_Jij Block
+
+  Begin Parameters_Jij
+   t1=  1:t2=  1:sh= 1:Jij= -0.000625!:sig=?????!:d= 2.90048427
+   t1=  1:t2=  1:sh= 2:Jij= -0.000775!:sig=?????!:d= 3.08296861
+   t1=  1:t2=  1:sh= 3:Jij=  0.0009325!:sig=?????!:d= 3.17329035
+   t1=  1:t2=  1:sh= 4:Jij=  0.0000975!:sig=?????!:d= 3.42260003
+   t1=  1:t2=  1:sh= 5:Jij= -0.0228500!:sig=?????!:d= 3.74847261
+   t1=  1:t2=  1:sh=14:Jij= -0.0007925!:sig=?????!:d= 5.80096867
+  End Parameters_Jij

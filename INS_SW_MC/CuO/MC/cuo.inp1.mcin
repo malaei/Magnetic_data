@@ -1,0 +1,26 @@
+      begin unit_cell_cart
+      ang
+        4.6837000847         0.0000000000         0.0000000000
+        0.0000000000         3.4226000309         0.0000000000
+       -0.8500274935         0.0000000000         5.0578692976
+      end unit_cell_cart
+      
+      begin atoms_frac
+      Cu  0.250000000         0.250000000         0.000000000  1.0
+      Cu  0.749999975         0.750000017         0.000000000  1.0
+      Cu  0.749999970         0.250000000         0.500000014  1.0
+      Cu  0.249999995         0.750000017         0.500000014  1.0
+      end atoms_frac
+
+
+ Shells_jij         = 16
+ !! Spin_glass      = .True. 
+ !! Ham_bij         = .True. 
+ !! Shells_bij      = 1 
+ !! Ham_dij         = .Ture. 
+ !! Shells_dij      = 1 
+
+ !! Length_unit     = Bohr
+ !! Parameter_unit  = Ryd 
+ !! Coordinate      = Cart 
+ 
