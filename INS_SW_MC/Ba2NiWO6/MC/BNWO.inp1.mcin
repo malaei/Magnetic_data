@@ -1,0 +1,22 @@
+Begin  Unit_Cell_Cart
+      0.0000000000       4.0320000649       4.0320000649
+      4.0320000649       0.0000000000       4.0320000649
+      4.0320000649       4.0320000649       0.0000000000
+  End Unit_Cell_Cart 
+
+ Begin  Atoms_Frac
+ Ni    0.500000000         0.500000000         0.500000000  1.0
+ End  Atoms_Frac
+ 
+ Shells_jij         = 6
+ !! Spin_glass      = .True. 
+ !! Ham_bij         = .True. 
+ !! Shells_bij      = 1 
+ !! Ham_dij         = .Ture. 
+ !! Shells_dij      = 1 
+
+ !! Length_unit     = Bohr
+ !! Parameter_unit  = Ryd 
+ !! Coordinate      = Cart 
+
+

@@ -1,0 +1,18 @@
+#!/bin/bash 
+#SBATCH -p lenovo
+#SBATCH -t 24:00:00 
+#SBATCH -N 1
+#SBATCH -n 24
+#SBATCH --reservation=nafise_32
+#SBATCH -J  BNWO
+#SBATCH -e  error-%j
+#SBATCH -o  output-%j
+
+module load intel2021/compiler/2021.2.0  intel2021/mpi/2021.2.0  intel2021/mkl/2021.2.0
+
+export UCX_TLS=ud,sm,self
+ulimit -s unlimited
+
+mpirun -np 24 /home/nafise/softs/ESpinS-new-2023-Oct18/mc.x  BNWO
+
+

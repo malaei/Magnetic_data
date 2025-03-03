@@ -1,0 +1,24 @@
+ Begin  Unit_Cell_Cart
+    5.4994999640    0.0000000000    0.0000000000
+    0.0000000000    5.4994999640    0.0000000000
+    0.0000000000    0.0000000000   12.5051996790
+ End Unit_Cell_Cart 
+
+ Begin  Atoms_Cart
+ Ni      0.0000000000     0.0000000000     0.0000000000    1.0
+ Ni      2.7497499820     0.0000000000     6.2525998390    1.0
+ Ni      2.7497499820     2.7497499820     0.0000000000    1.0
+ Ni      0.0000000000     2.7497499820     6.2525998390    1.0
+ End  Atoms_Cart
+ 
+    Shells_jij      = 8
+ !! Spin_glass      = .True. 
+ !! Ham_bij         = .True. 
+ !! Shells_bij      = 1 
+ !! Ham_dij         = .Ture. 
+ !! Shells_dij      = 1 
+
+ !! Length_unit     = Bohr
+ !! Parameter_unit  = Ryd 
+ !! Coordinate      = Cart 
+ 

@@ -1,0 +1,22 @@
+      Begin unit_cell_cart
+Ang
+        3.4335061682         1.9823357584         6.6023453086
+       -3.4335063580         1.9823357440         6.6023452142
+       -0.0000000714        -3.9646715382         6.6023452700
+     End unit_cell_cart
+      
+      Begin atoms_frac   
+ Cr    0.333710015         0.333710015         0.333710015  1.0
+ Cr    0.666289985         0.666289985         0.666289985  1.0
+      End atoms_frac 
+    Shells_jij      = 8
+ !! Spin_glass      = .True. 
+ !! Ham_bij         = .True. 
+ !! Shells_bij      = 1 
+ !! Ham_dij         = .Ture. 
+ !! Shells_dij      = 1 
+
+ !! Length_unit     = Bohr
+ !! Parameter_unit  = Ryd 
+ !! Coordinate      = Cart 
+ 
