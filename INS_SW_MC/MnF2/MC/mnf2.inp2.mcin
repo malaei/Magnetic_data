@@ -20,11 +20,12 @@
   !! Boundary               =  Open 
   !! Ham_j_matrix           = .True.
   !! Ham_singleion          = .True.
-     Ham_singleion_matrix   = .True.
+   Ham_singleion_matrix   = .True.
   !! Ham_field              = .True.
   !! Spin_glass             = .True.  !Add the sigma parameters as sig=.. in Parameters_Jij Block
 
   Begin Parameters_Jij
-   t1=  1:t2=  1:sh= 1:Jij=  0.00587500!:sig=?????!:d= 3.30845400
-   t1=  1:t2=  1:sh= 2:Jij= -0.00078750!:sig=?????!:d= 3.81204435
+   t1=  1:t2=  1:sh= 1:Jij= 0.000423125!:sig=?????!:d= 3.30845400
+   t1=  1:t2=  1:sh= 2:Jij=-0.001888750!:sig=?????!:d= 3.81204435
+   t1=  1:t2=  1:sh= 3:Jij= 0.000027500!:sig=?????!:d= 4.85699807
   End Parameters_Jij

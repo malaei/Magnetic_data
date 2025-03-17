@@ -1,2 +1,2 @@
-T_exp      T_MC     T_MC*       S       error
-38.4        33      46.2       2.5       20.3 
+T_exp      T_MC        T_MC*         S         Error%
+38.4        33         46.2         2.5         20.3 

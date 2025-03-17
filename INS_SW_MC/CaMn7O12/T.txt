@@ -1,2 +1,2 @@
-T_exp      T_MC     T_MC*       S       error
-90          61      122        1        35.5
+T_exp       T_MC          T_MC*         S         error
+90           61            122          1          35.5
