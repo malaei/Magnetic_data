@@ -1,6 +1,6 @@
 # Dataset Description
 
-Each directory in this repository contains the following files and information:
+Each directory, corresponding to a compound in the `Compounds` directory, contains the following files and information:
 
 1. **Structure file (VESTA format)**  
    - Can be visualized using [VESTA](https://jp-minerals.org/vesta/en/).  
