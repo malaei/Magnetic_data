@@ -10,7 +10,7 @@ Each directory, corresponding to a compound in the [`Compounds`](./Compounds) di
    - Illustrates the crystal structure and exchange interactions.  
    - Exchange paths are labeled (e.g., *J₁, J₂, …*).  
 
-3. **README.md (per compound)**  
+3. **README.md**  
    - Contains:  
      - Exchange interactions (in **meV**)  
      - Experimental transition temperature (**K**)  
