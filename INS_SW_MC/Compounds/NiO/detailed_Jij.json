@@ -1,0 +1,867 @@
+{
+  "unit_cell_cart": [
+    [
+      4.171,
+      2.0855,
+      2.0855
+    ],
+    [
+      2.0855,
+      4.171,
+      2.0855
+    ],
+    [
+      2.0855,
+      2.0855,
+      4.171
+    ]
+  ],
+  "atoms_frac": [
+    {
+      "element": "Ni",
+      "coords": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "element": "Ni",
+      "coords": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "jij_parameters": [
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          0.0,
+          -1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          -1.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          1.0,
+          -1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          -1.0,
+          1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -1.0,
+          1.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -1.0,
+          0.0,
+          1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          -0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.9493423843290905,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          -0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          -0.5,
+          -0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.5,
+          -0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          -0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.9493423843290905,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.5,
+          -0.5,
+          -0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171000000000001,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          1.5,
+          -0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          -0.5,
+          1.5
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          -1.5
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          -1.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -1.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171000000000001,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.5,
+          0.5,
+          -0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.5,
+          -0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          1.5,
+          -0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          -0.5,
+          1.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          1.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.5,
+          1.5
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.9493423843290905,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          1.0,
+          -0.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.9493423843290905,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          -0.0,
+          1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -0.0,
+          1.0,
+          1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": 0.00137,
+      "distance": 2.94934238432909,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          1.0,
+          -1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          -1.0,
+          1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171000000000001,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          2.0,
+          0.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171000000000001,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "element": "Ni"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.0,
+          2.0
+        ],
+        "element": "Ni"
+      },
+      "jij": -0.01901,
+      "distance": 4.171,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    }
+  ]
+}

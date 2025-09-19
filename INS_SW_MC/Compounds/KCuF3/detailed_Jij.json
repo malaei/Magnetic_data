@@ -1,0 +1,315 @@
+{
+  "unit_cell_cart": [
+    [
+      5.86039998,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      5.86039998,
+      0.0
+    ],
+    [
+      2.93019999,
+      2.93019999,
+      3.92640001
+    ]
+  ],
+  "atoms_frac": [
+    {
+      "element": "Cu",
+      "coords": [
+        0.0,
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "element": "Cu",
+      "coords": [
+        0.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "jij_parameters": [
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          1.0,
+          -1.0
+        ],
+        "element": "Cu"
+      },
+      "jij": -0.0085,
+      "distance": 3.92640001,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.0,
+          1.0
+        ],
+        "element": "Cu"
+      },
+      "jij": -0.0085,
+      "distance": 3.92640001,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "jij": 0.000135,
+      "distance": 4.143928566323508,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          1.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "jij": 0.000135,
+      "distance": 4.143928566323508,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "jij": 0.000135,
+      "distance": 4.143928566323508,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          1.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "jij": 0.000135,
+      "distance": 4.143928566323508,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          0.5,
+          -1.0
+        ],
+        "element": "Cu"
+      },
+      "jij": -0.0085,
+      "distance": 3.92640001,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          -0.5,
+          1.0
+        ],
+        "element": "Cu"
+      },
+      "jij": -0.0085,
+      "distance": 3.92640001,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "jij": 0.000135,
+      "distance": 4.143928566323508,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "jij": 0.000135,
+      "distance": 4.143928566323508,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          -0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "jij": 0.000135,
+      "distance": 4.143928566323508,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          -0.5,
+          0.0
+        ],
+        "element": "Cu"
+      },
+      "jij": 0.000135,
+      "distance": 4.143928566323508,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    }
+  ]
+}

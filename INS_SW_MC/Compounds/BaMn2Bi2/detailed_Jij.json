@@ -1,0 +1,975 @@
+{
+  "unit_cell_cart": [
+    [
+      4.4925704,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      4.4925704,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      14.55636024
+    ]
+  ],
+  "atoms_frac": [
+    {
+      "element": "Mn",
+      "coords": [
+        0.0,
+        0.5,
+        0.25
+      ]
+    },
+    {
+      "element": "Mn",
+      "coords": [
+        0.5,
+        0.0,
+        0.25
+      ]
+    },
+    {
+      "element": "Mn",
+      "coords": [
+        0.5,
+        0.0,
+        0.75
+      ]
+    },
+    {
+      "element": "Mn",
+      "coords": [
+        0.0,
+        0.5,
+        0.75
+      ]
+    }
+  ],
+  "jij_parameters": [
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          1.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          1.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          1.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          -0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          -1.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.00315,
+      "distance": 7.27818012,
+      "shell": 5,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          -0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.00315,
+      "distance": 7.27818012,
+      "shell": 5,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          -0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          -0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          1.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          1.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          -1.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.00315,
+      "distance": 7.27818012,
+      "shell": 5,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          -0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.00315,
+      "distance": 7.27818012,
+      "shell": 5,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          -0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          -0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          1.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          1.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          -1.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.00315,
+      "distance": 7.27818012,
+      "shell": 5,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          1.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.00315,
+      "distance": 7.27818012,
+      "shell": 5,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.5,
+          1.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          0.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          -0.5,
+          1.0,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.05425,
+      "distance": 3.1767269947979604,
+      "shell": 1,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          1.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          1.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          -0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          -1.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.019625,
+      "distance": 4.4925704,
+      "shell": 2,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.00315,
+      "distance": 7.27818012,
+      "shell": 5,
+      "t1": 1,
+      "t2": 1
+    },
+    {
+      "i": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          0.75
+        ],
+        "element": "Mn"
+      },
+      "j": {
+        "frac_coords": [
+          0.0,
+          0.5,
+          1.25
+        ],
+        "element": "Mn"
+      },
+      "jij": -0.00315,
+      "distance": 7.27818012,
+      "shell": 5,
+      "t1": 1,
+      "t2": 1
+    }
+  ]
+}
