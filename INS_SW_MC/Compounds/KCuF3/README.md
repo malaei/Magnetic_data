@@ -4,6 +4,9 @@
 
 ![KCuF3 Structure](KCuF3.jpg)
 
+**Space group:** I4/mcm (No. 140)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

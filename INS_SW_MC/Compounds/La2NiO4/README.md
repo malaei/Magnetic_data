@@ -4,6 +4,9 @@
 
 ![La2NiO4 Structure](La2NiO4.jpg)
 
+**Space group:** P4_2/ncm (No. 138)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

@@ -4,6 +4,9 @@
 
 ![Cr2TeO6 Structure](Cr2TeO6.jpg)
 
+**Space group:** P4_2/mnm (No. 136)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

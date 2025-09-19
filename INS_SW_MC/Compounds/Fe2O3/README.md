@@ -4,6 +4,9 @@
 
 ![Fe2O3 Structure](Fe2O3.jpg)
 
+**Space group:** R-3c (No. 167)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

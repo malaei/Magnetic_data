@@ -4,6 +4,9 @@
 
 ![BiFeO3 Structure](BiFeO3.jpg)
 
+**Space group:** R3c (No. 161)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

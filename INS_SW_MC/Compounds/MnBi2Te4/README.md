@@ -4,6 +4,9 @@
 
 ![MnBi2Te4 Structure](MnBi2Te4.jpg)
 
+**Space group:** R-3m (No. 166)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

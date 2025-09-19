@@ -4,6 +4,9 @@
 
 ![MnWO4 Structure](MnWO4.jpg)
 
+**Space group:** P2/c  (No. 13)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

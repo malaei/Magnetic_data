@@ -4,6 +4,9 @@
 
 ![CrCl2 Structure](CrCl2.jpg)
 
+**Space group:** Pnnm (No. 58)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

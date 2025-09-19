@@ -4,6 +4,9 @@
 
 ![YbMnBi2 Structure](YbMnBi2.jpg)
 
+**Space group:** P4/nmm (No. 129)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

@@ -4,6 +4,9 @@
 
 ![CrBr3 Structure](CrBr3.jpg)
 
+**Space group:** P-3 (No. 147)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

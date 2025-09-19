@@ -4,6 +4,9 @@
 
 ![NiCl2 Structure](NiCl2.jpg)
 
+**Space group:** R-3m (No. 166)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

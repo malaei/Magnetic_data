@@ -4,6 +4,9 @@
 
 ![Ca3Ru2O7 Structure](Ca3Ru2O7.jpg)
 
+**Space group:** Cmc2_1 (No. 36)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

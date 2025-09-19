@@ -4,6 +4,9 @@
 
 ![BaMn2As2 Structure](BaMn2As2.jpg)
 
+**Space group:** I4/mmm (No. 139)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

@@ -4,6 +4,9 @@
 
 ![MnS2 Structure](MnS2.jpg)
 
+**Space group:** Pa-3 (No. 205)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

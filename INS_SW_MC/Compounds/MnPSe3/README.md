@@ -4,6 +4,9 @@
 
 ![MnPSe3 Structure](MnPSe3.jpg)
 
+**Space group:** R-3 (No. 148)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

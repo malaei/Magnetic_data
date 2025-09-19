@@ -4,6 +4,9 @@
 
 ![BaNi2As2O8 Structure](BaNi2As2O8.jpg)
 
+**Space group:** R-3 (No. 148)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

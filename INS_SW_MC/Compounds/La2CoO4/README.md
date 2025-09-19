@@ -4,6 +4,9 @@
 
 ![La2CoO4 Structure](La2CoO4.jpg)
 
+**Space group:** Cmce (No. 64)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

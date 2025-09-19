@@ -4,6 +4,9 @@
 
 ![Bi2CuO4 Structure](Bi2CuO4.jpg)
 
+**Space group:** P4/ncc (No. 130)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

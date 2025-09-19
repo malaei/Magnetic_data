@@ -4,6 +4,9 @@
 
 ![LuMnO3 Structure](LuMnO3.jpg)
 
+**Space group:** P6_3cm (No. 185)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

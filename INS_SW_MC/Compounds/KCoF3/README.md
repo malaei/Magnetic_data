@@ -4,6 +4,9 @@
 
 ![KCoF3 Structure](KCoF3.jpg)
 
+**Space group:** Pm-3m (No. 221)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

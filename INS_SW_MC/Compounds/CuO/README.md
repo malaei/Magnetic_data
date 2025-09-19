@@ -4,6 +4,9 @@
 
 ![CuO Structure](CuO.jpg)
 
+**Space group:** C2/c (No. 15)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

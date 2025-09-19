@@ -4,6 +4,9 @@
 
 ![TmFeO3 Structure](TmFeO3.jpg)
 
+**Space group:** Pnma (No. 62)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

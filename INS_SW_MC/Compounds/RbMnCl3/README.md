@@ -4,6 +4,9 @@
 
 ![RbMnCl3 Structure](RbMnCl3.jpg)
 
+**Space group:** P6_3/mmc (No. 194)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

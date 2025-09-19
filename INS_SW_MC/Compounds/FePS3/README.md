@@ -4,6 +4,9 @@
 
 ![FePS3 Structure](FePS3.jpg)
 
+**Space group:** C2/m (No. 12)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

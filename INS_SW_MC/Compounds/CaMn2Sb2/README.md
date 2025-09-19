@@ -4,6 +4,9 @@
 
 ![CaMn2Sb2 Structure](CaMn2Sb2.jpg)
 
+**Space group:** P-3m1 (No. 164)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

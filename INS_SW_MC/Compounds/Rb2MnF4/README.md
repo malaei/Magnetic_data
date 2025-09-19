@@ -4,6 +4,9 @@
 
 ![Rb2MnF4 Structure](Rb2MnF4.jpg)
 
+**Space group:** I4/mmm (No. 139)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

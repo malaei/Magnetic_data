@@ -4,6 +4,9 @@
 
 ![CrI3 Structure](CrI3.jpg)
 
+**Space group:** R-3 (No. 148)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

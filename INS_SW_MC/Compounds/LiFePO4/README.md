@@ -4,6 +4,9 @@
 
 ![LiFePO4 Structure](LiFePO4.jpg)
 
+**Space group:** Pnma (No. 62)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

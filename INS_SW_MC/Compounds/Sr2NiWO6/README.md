@@ -4,6 +4,9 @@
 
 ![Sr2NiWO6 Structure](Sr2NiWO6.jpg)
 
+**Space group:** I4/m (No. 87)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|

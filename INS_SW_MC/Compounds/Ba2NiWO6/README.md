@@ -4,7 +4,9 @@
 
 ![Ba2NiWO6 Structure](Ba2NiWO6.jpg)
 
-**Space group:**: Fm-3m (No. 225)
+**Space group:** Fm-3m (No. 225)
+
+
 
 | shell    | distance (A&#778;) | exchange J (meV) |
 |----------|--------------|------------------|
