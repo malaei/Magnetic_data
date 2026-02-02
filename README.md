@@ -7,10 +7,16 @@ This repository provides experimental magnetic data, organized as follows:
   If you use this dataset, please cite:
 
   > Mojtaba Alaei, Zahra Mosleh, Nafise Rezaei, Artem R. Oganov,  
-  > *From Spin Waves to Monte Carlo Simulations: Compiling an Experimental Exchange Interaction Dataset for Magnetic Materials*,  
-  > [arXiv:2504.15764](https://doi.org/10.48550/arXiv.2504.15764)
+  > *Experimental Exchange Interaction Dataset for Magnetic Materials: Spin Waves to MC Simulations*,  
+  > [Scientific Data, 12, 1832 (2025)](https://doi.org/10.1038/s41597-025-06099-x)
 
-- **FM** *(coming soon)*: Will include Curie temperature data for approximately 3,000 ferromagnetic compounds.
+- **FM**: Curie temperature data for approximately 2,500 ferromagnetic compounds, carefully curated by **Akram Abedi**. For each compound, the corresponding DOI of the reported Curie temperature is included. 
+
+  If you use this dataset, please cite:
+  
+  > Akram Abedi Orang, Mojtaba Alaei, Artem R. Oganov,
+  > *Predicting the Curie Temperature of Magnetic Materials with Machine Learning: Descriptor Engineering, Graph Neural Networks, and the Role of Curated Data*,  
+  > [arXiv:2509.17464](https://doi.org/10.48550/arXiv.2509.17464)
 
 - **AFM** *(coming soon)*: Will include Néel temperature data for approximately 3,000 antiferromagnetic compounds.
 
