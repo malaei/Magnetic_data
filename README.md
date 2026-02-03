@@ -10,7 +10,7 @@ This repository provides experimental magnetic data, organized as follows:
   > *Experimental Exchange Interaction Dataset for Magnetic Materials: Spin Waves to MC Simulations*,  
   > [Scientific Data, 12, 1832 (2025)](https://doi.org/10.1038/s41597-025-06099-x)
 
-- **FM**: Curie temperature data for approximately 2,500 ferromagnetic compounds, carefully curated by **Akram Abedi**. For each compound, the corresponding DOI of the reported Curie temperature is included. 
+- **FM**: Curie temperature data for 2,500 ferromagnetic compounds, carefully curated by **Akram Abedi**. For each compound, the corresponding DOI of the reported Curie temperature is included. 
 
   If you use this dataset, please cite:
   
